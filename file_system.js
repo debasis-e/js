@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs"); //comment
 const prompt = require("prompt-sync")();
 
 let name = prompt("enter your name: ");
